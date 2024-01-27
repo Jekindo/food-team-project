@@ -56,3 +56,45 @@ address {
 
   cursor: pointer;
 }
+
+/*      HEADER      */
+
+.header {
+  box-shadow: 0px 4px 24px 0px rgba(105, 105, 105, 0.10);
+}
+
+.header-container{
+display: flex;
+align-items: center;
+
+}
+
+.header-link {
+margin-right: auto;
+}
+
+.header-navigation {
+
+}
+
+.header-menu {
+ display: flex;
+ gap: 28px;
+ margin-right: 30px;
+
+}
+
+.header-item {
+
+}
+
+.header-nav-link {
+  color: #BBF330;
+  font-weight: 700;
+  text-decoration-line: underline;
+}
+
+.nav-link {
+  padding: 28px 0;
+  color:#2C2C2C;
+}
